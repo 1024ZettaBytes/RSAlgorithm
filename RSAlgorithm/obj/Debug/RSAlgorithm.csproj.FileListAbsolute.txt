@@ -1,0 +1,9 @@
+C:\Users\1024zettabytes\source\repos\RSAlgorithm\RSAlgorithm\bin\Debug\RSAlgorithm.exe.config
+C:\Users\1024zettabytes\source\repos\RSAlgorithm\RSAlgorithm\bin\Debug\RSAlgorithm.exe
+C:\Users\1024zettabytes\source\repos\RSAlgorithm\RSAlgorithm\bin\Debug\RSAlgorithm.pdb
+C:\Users\1024zettabytes\source\repos\RSAlgorithm\RSAlgorithm\obj\Debug\RSAlgorithm.Properties.Resources.resources
+C:\Users\1024zettabytes\source\repos\RSAlgorithm\RSAlgorithm\obj\Debug\RSAlgorithm.csproj.GenerateResource.Cache
+C:\Users\1024zettabytes\source\repos\RSAlgorithm\RSAlgorithm\obj\Debug\RSAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\1024zettabytes\source\repos\RSAlgorithm\RSAlgorithm\obj\Debug\RSAlgorithm.exe
+C:\Users\1024zettabytes\source\repos\RSAlgorithm\RSAlgorithm\obj\Debug\RSAlgorithm.pdb
+C:\Users\1024zettabytes\source\repos\RSAlgorithm\RSAlgorithm\obj\Debug\RSAlgorithm.RSAlgorithm.resources
